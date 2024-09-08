@@ -1,6 +1,7 @@
 # RevitToRDF
 
-This is the companion code for the study reported in the paper entitled with **"Enabling scalable MPC design for building HVAC systems using semantic data modelling"**, under submission to the journal of [Automation in Construction](https://www.sciencedirect.com/journal/automation-in-construction). To populate the proposed information model with real building data, a software tool is introduced to translate the 3D Building Information Model (BIM) in format of Revit into an RDF graph. The tool was developed based on the previous open-source project [RevitToRDFConverter](https://github.com/Semantic-HVAC-Tool/Parser), under the MIT license. 
+This is the companion code for the study reported in the paper entitled with **"Enabling scalable MPC design for building HVAC systems using semantic data modelling"**, under submission to the journal of [Automation in Construction](https://www.sciencedirect.com/journal/automation-in-construction). Preprinit is available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4875326).
+To populate the proposed information model with real building data, a software tool is introduced to translate the 3D Building Information Model (BIM) in format of Revit into an RDF graph. The tool was developed based on the previous open-source project [RevitToRDFConverter](https://github.com/Semantic-HVAC-Tool/Parser), under the MIT license. 
 
 ## Purpose of the project
 
