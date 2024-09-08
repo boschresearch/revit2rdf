@@ -6,7 +6,7 @@ To populate the proposed information model with real building data, a software t
 ## Purpose of the project
 
 This software is a research prototype, solely developed for and published as part of the publication. It will neither be maintained nor monitored in any way. The goal of this software tool is to extracts the required metadata from the BIM, and
-represents the data using the proposed data schema (semantics4MPC), so that it could enable more scalable MPC algorithm design and deployment in the building industry. Compared with the original parser, the main contribution of the software include the following features:
+represents the data using the proposed data schema ([semantics4MPC](https://github.com/boschresearch/semantics4mpc)), so that it could enable more scalable MPC algorithm design and deployment in the building industry. Compared with the original parser, the main contribution of the software include the following features:
 
 1. extract detailed geometry of thermal zones from buildings,
 1. extract actuator and sensor metadata,
